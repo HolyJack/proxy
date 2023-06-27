@@ -1,0 +1,1 @@
+The goal of the project was to create a website proxy that adds the "tm" symbol to every word with a length of 6 characters, while maintaining the original functionality of the website. Additionally, all internal links were modified to redirect to the localhost instead of the original website, ensuring a seamless browsing experience.
